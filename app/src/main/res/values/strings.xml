@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Portfolio app</string>
+    <string name="lorem_text">Apples are a popular fruit, containing antioxidants, vitamins, dietary fiber, and a range of other nutrients. Due to their varied nutrient content, they may help prevent several health conditions.
+
+Apples come in a variety of shapes, colors, and flavors and provide a range of nutrients that can benefit many different aspects of a person’s health.</string>
+    <string name="job_text">Android Developer</string>
+    <string name="lorem_text2">gn is the country code top-level domain (ccTLD) for Guinea. A local contact is required to register a domain name unde</string>
+    <string name="name">Vanshaj Sharma</string>
+    <string name="current_job_post">Current Job Post</string>
+    <string name="computer_science_degree">Computer Science Degree</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loren_text2">Traditionally, Hello World programs are used to illustrate how the process of coding works, as well as to ensure that a language or system is operating correctly. ... Above all, Hello World is simple. That\'s why it is so often used as a barometer of program success</string>
+    <string name="professional_experience">Professional Experience</string>
+    <string name="our_team">Our Team</string>
+    <string name="mike_ross">Mike Ross</string>
+</resources>
